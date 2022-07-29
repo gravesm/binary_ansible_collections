@@ -1,0 +1,4 @@
+plugin_routing:
+  action:
+    system:
+      redirect: gravesm.binary.golang
